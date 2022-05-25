@@ -1,0 +1,1 @@
+This project will allow me to demonstrate my understanding of HTML and CSS via the creation of a typical landing page from scratch.
