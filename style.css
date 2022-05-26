@@ -40,15 +40,19 @@ a {
 }
 
 .hero img {
-    max-width: 375px;
+    max-width: 450px;
 }
 
 .hero {
     display: flex;
     background: #1f2937;
     justify-content: center;
-    gap: 80px;
+    gap: 50px;
     padding: 80px 160px;
+}
+
+.left-hero {
+    flex-basis: 450px;
 }
 
 button {
