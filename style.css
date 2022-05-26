@@ -71,3 +71,36 @@ button {
     color: #e5e7eb;
     padding-bottom: 8px;
 }
+
+.info img {
+    max-width: 100px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    padding: 40px 160px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 48px;
+    padding: 0 260px 80px;
+}
+
+.info {
+    max-width: 122px;
+}
+
+.text {
+    font-size: 18px;
+    color: #1f2937;
+}
